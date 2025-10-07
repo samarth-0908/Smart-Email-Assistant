@@ -1,0 +1,46 @@
+# Node.js (Frontend)
+email-writer-frontend/node_modules/
+email-writer-frontend/dist/
+email-writer-frontend/.env
+email-writer-frontend/.DS_Store
+email-writer-frontend/.vscode/
+
+# Java (Backend)
+email-writer-backend/target/
+email-writer-backend/.idea/
+email-writer-backend/.classpath
+email-writer-backend/.project
+email-writer-backend/.settings/
+email-writer-backend/.vscode/
+email-writer-backend/.DS_Store
+email-writer-backend/.env
+
+# Chrome Extension
+email-writer-extension/.DS_Store
+email-writer-extension/.vscode/
+
+# OS/Editor files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Misc
+.env
+*.iml
+
+# IDE
+.vscode/
+.idea/
+
+# Maven
+email-writer-backend/.mvn/
+email-writer-backend/mvnw*
+
+# Build
+/build/
+
+# Others
+*.bak
+*.old
